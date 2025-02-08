@@ -12,6 +12,10 @@ It responds to predefined user inputs and greets users based on the time of day.
 
 - **User Interaction**:
     - Continuous user interaction until the user types "bye" to exit.
+
+- **Customizable**: Users can "teach" the bot as much as they like.
+- **Persistent Memory**: Learned responses are saved and reused across sessions.
+- **Flexible**: Easy to extend by modifying the JSON file.
  
 - ### How to Run
 - You need Python 3.x installed on your system.
